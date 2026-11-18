@@ -47,7 +47,7 @@ function UpdateExample() {
         useState(0);
 
     useEffect(() => {
-
+        
         console.log(
             "Count Updated"
         );
